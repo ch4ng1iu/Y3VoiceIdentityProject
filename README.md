@@ -1,4 +1,4 @@
-# Do Voice Identity Ratings of AI Cloned Voices Affect Their Intelligibility in Noise?
+# Do AI-Cloned Voices Occupy the Social Voice Space? Differences in Dominance and Valence Between Human and Cloned Speech
 
 Division of Psychology and Language Sciences, University College London (UCL)
 
@@ -66,7 +66,7 @@ Additional scripts in this repository may require:
 - For submission, include an R session record (`sessionInfo()`) and package versions.
 
 ## Suggested Citation / Identification Text
-Do Voice Identity Ratings of AI Cloned Voices Affect Their Intelligibility in Noise?
+Do AI-Cloned Voices Occupy the Social Voice Space? Differences in Dominance and Valence Between Human and Cloned Speech
 Division of Psychology and Language Sciences, University College London.
 March 2026.
 Ethical approval: UCL Research Ethics Committee (`0599.005`).
